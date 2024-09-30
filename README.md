@@ -32,10 +32,6 @@ pip install -e .
 - Code portions that are not used are stripped to make the code simpler and clearer.
 - Code paths for some of the original XLM tasks such as causal LM, back-translation, auto-encoding, etc.
   are not used/tested and probably broken due to refactoring.
-  
- 
-### Data Preparation
-We made some of the datasets and features accessible through [zenodo.org](https://zenodo.org/record/4646961).
 
 
 ### Downloading
